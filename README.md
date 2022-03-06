@@ -50,5 +50,3 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 <h4 align="center"> 
 	🚧  React Select 🚀 Em construção...  🚧
 </h4>
-
-<img src="./assets/capa.png">
