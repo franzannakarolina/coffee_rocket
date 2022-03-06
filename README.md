@@ -45,10 +45,10 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-<img src="https://www.figma.com/file/00lHRUkuYBXYVeD280Hfs2/RocketCoffee-(Copy)?node-id=326%3A81", alt="Layout">
+<!-- <img src="https://www.figma.com/file/00lHRUkuYBXYVeD280Hfs2/RocketCoffee-(Copy)?node-id=326%3A81", alt="Layout"> -->
 
 <h4 align="center"> 
 	🚧  React Select 🚀 Em construção...  🚧
 </h4>
 
-<img src="../../assets/../Documents/coffe-rocket/src/assets/capa.png">
+<img src="../../assets/capa.png">
