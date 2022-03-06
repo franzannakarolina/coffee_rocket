@@ -51,4 +51,4 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 	🚧  React Select 🚀 Em construção...  🚧
 </h4>
 
-<img src="../coffe-rocket/src/assets/capa.png">
+<img src="/assets/capa.png">
