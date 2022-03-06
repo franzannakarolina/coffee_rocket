@@ -44,3 +44,11 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+<img src="https://www.figma.com/file/00lHRUkuYBXYVeD280Hfs2/RocketCoffee-(Copy)?node-id=326%3A81", alt="Layout">
+
+<h4 align="center"> 
+	🚧  React Select 🚀 Em construção...  🚧
+</h4>
+
+<img src="../../assets/../Documents/coffe-rocket/src/assets/capa.png">
